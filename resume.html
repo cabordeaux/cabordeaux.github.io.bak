@@ -1,25 +1,29 @@
-Lesson 4.2 Exercise 1
+
 <!DOCTYPE html>
-<html lang="en">
-        <head>
-           <meta charset="UTF-8">
-           <title>Contact Clovis Bordeaux</title>
-           <meta name="viewport" content="width=device-with, initial-scale=1.0">
-        </head>
+  <html lang="en">
+
+    <head>
+      <meta charset="UTF-8">
+      <title>Resume</title>
+      <meta name="viewport" content="width=device-with, initial-scale=1.0">
+      <link rel="stylesheet" type="text/css" href="./dist/css/main.css">
+    </head>
+
     <body>
        <title>Clovis Bordeaux's Resume</title>
-        <nav>
-            <ul>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="resume.html">Resume</a></li>
-              <li><a href="contact.html">Contact</a></li>
-            </ul>
-            <h1>Clovis Bordeaux</h1>
-            <div>
-              <a href="..." target="_blank" rel="noopener">LinkedIn</a>
-              &#x25CF;
-              Some City, IL
-            </div>
+       
+       <header>
+          <span class="logo">My WebSite</span>
+          <a id="toggleMenu">Menu<a></a>
+              <nav>
+                <ul>
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="resume.html">Resume</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                </ul>
+              </nav>
+      </header>
+
             <main>
                     <h1>Clovis Bordeaux</h1>
               
@@ -28,7 +32,7 @@ Lesson 4.2 Exercise 1
                       &#x25CF;
                       <a href="https://github.com/cabordeaux" target="_blank" rel="noopener">GitHub</a>
                       &#x25CF;
-                      La Grange Park, IL
+                      Greater Chicago Area
                     </div>
                     
                     <section>
@@ -36,7 +40,7 @@ Lesson 4.2 Exercise 1
                       <p>
                         A retired Chicago Public Schools teacher experienced building websites on 
                         Wordpress and popular hosting platforms using HTML, CSS, responsive design, third party 
-                        applications, User Data Forms, and email response.
+                        ap~plications, User Data Forms, Cisco Packet Tracer, MDL and Bootstrap libraries, SQ3 Database, and email response.
 
 
                       </p>
@@ -115,10 +119,22 @@ Lesson 4.2 Exercise 1
                     </section>
               
                   </main>
-              
-              
-                </body>
-              </html>
-        </nav>
+                  <script>
+
+                      var toggleMenu = document.getElementById('toggleMenu');
+                      var nav = document.querySelector('nav');
+                      toggleMenu.addEventListener(
+                        'click',
+                        function(){
+                          if(nav.style.display=='block'){
+                            nav.style.display='none';
+                          }else{
+                            nav.style.display='block';
+                          }
+                        }
+                      );
+                  </script>
+                   
     </body>
-</html>
+
+  </html>
