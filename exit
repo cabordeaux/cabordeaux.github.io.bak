@@ -1,0 +1,102 @@
+[33mcommit 3768f3bdb049175e66aec59e3450aab2d8d8a9d0[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Sun May 27 20:52:48 2018 -0500
+
+    Copied files from example.com
+
+[33mcommit d8a99f76b740604ed4b08b614b1b4aeb9e16e6cc[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Fri May 25 17:28:51 2018 -0500
+
+    Replaced index.html with bootstrap version
+
+[33mcommit d965ec475a831852ef1d235c9421d21965f67d14[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu May 24 16:59:04 2018 -0500
+
+    changed submodule
+
+[33mcommit 91853418eae35528908e113add0aa91d63a9b8de[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu May 24 16:26:40 2018 -0500
+
+    draw submodule
+
+[33mcommit 36c51c6f48647ab2c4aeba046a9ba5f102f70aa4[m
+Merge: 20c7a8c 42a1c4d
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu May 24 15:27:25 2018 -0500
+
+    Merge branch 'master' of github.com:cabordeaux/cabordeaux.github.io
+
+[33mcommit 20c7a8c934fbd3423276816064ea60ecaccbf976[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu May 24 15:17:48 2018 -0500
+
+    rerouted to github.io/resume/html
+
+[33mcommit 1f3d862e6fea77923f271a507639f8d4fcb254f5[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu May 24 12:31:10 2018 -0500
+
+    s
+
+[33mcommit f70187a4b3068392358501146f2a8637b9f74e68[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Tue May 22 13:14:00 2018 -0500
+
+    git hub updated
+
+[33mcommit 42a1c4dc40f5ffd1d32ff7cc79b63f5a8915e4ff[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Tue May 8 13:08:45 2018 -0500
+
+    Update resume.html
+
+[33mcommit 4616594283f316ac3051fa556f18926f74bb4b72[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu Apr 5 16:44:54 2018 -0500
+
+    saved
+
+[33mcommit cc98927952b2769e0dee47d21fc8fe0a6af227f8[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu Apr 5 16:41:44 2018 -0500
+
+    created resume
+
+[33mcommit 5c11f33c54f8ea8c7f75266d6d82e3920daeaebe[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu Apr 5 16:04:04 2018 -0500
+
+    added name, email message, send, thankyou
+
+[33mcommit aa511c4600c6bd785241cc643c535b8a06b1f85c[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu Apr 5 16:01:58 2018 -0500
+
+    added name, email message, send, thankyou
+
+[33mcommit 3b7c40099101e18e4b05fb67e2ca27aa3e587bf6[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu Apr 5 15:54:48 2018 -0500
+
+    added some stuff
+
+[33mcommit 959def68c3f6bdf559272f6f08102f3fbc5fb377[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu Apr 5 15:48:28 2018 -0500
+
+    added contact form
+
+[33mcommit 4f0d37218d71faf26068b15d5fa6c2b3861d29ac[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu Apr 5 14:00:30 2018 -0500
+
+    added resume and contact pages
+
+[33mcommit f8bd86a5e907cb4f750c851fa3bfed3aaeb5dddf[m
+Author: Clovis Bordeaux <clovisbordeaux@gmail.com>
+Date:   Thu Apr 5 11:45:03 2018 -0500
+
+    Initial commit

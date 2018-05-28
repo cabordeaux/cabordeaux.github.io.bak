@@ -16,18 +16,13 @@ $content = <<<EOT
   </div>
   
   <section>
-    <h2>A+ Certified MIN Alchemist</h2>
+    <h2>Web Developer</h2>
     <p>
-    Good Morning.  "I'm Clovis Bordeaux.  I do technical support services related to computer networks and software, and networks.
-
-    An  innovative technology champion consistently developing solutions in educational and business settings.  An avid hands-on teacher/learner comfortable in networking and software environments, with experiences in building responsive and interactive websites and applications.  
-    
-    I adapt easily to challenging situations. I enjoy learning new technologies and devising strategies to solve problems. I have found that paying close attention to detail produces high-quality work the first time, and that keeps me from having to do it again. I try to understand your needs, goals, and frustrations  to engineer a path forward.I have the communication skills to explain complex situations or processes and make them simple to understand..
-    
-    I help companies accomplish their goals faster and cheaper than they ever thought possible.  I make sure technology works for you instead of against you."
-
+    A servant/leader proponent of innovative technology solutions in educational and enterprise settings.  An avid hands-on teacher/learner comfortable in networking and software environments, with experiences in building responsive, interactive applications, who adapts easily to challenging situations, with a natural taalent for explaining complex concepts using easy-to-understand language.  Experienced in Express, Javascript, Angular and Ionic environments.
 
     </p>
+
+    <h1>Core Competencies</h1>
     <ul>
       <li>
         digital music and audio production engineer 

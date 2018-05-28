@@ -16,7 +16,7 @@ header {
     background: #000;
     color: #fff;
     margin: 0;
-    padding: 0 1em 0 1em;
+    padding: 0 1em 1em;
 }
 
 header .logo{
@@ -26,17 +26,19 @@ header .logo{
 }
 
 header nav {
-    float: right
+    /*float: right;*/
+    display: inline-block;
 }
 
 header nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
+    display: inline-block;
 }
 
 header nav ul li{
-    display: inline;
+    display: inline-block;
 }
 
 header nav ul li a,
@@ -89,7 +91,7 @@ label {
         position: relative;
       }
     header nav{
-        position: absolute;
+        /*position: absolute;*/
         display: none;
         background: #000;
         top: 50px;
@@ -100,7 +102,7 @@ label {
     header nav ul li a,
     header nav ul li a:link,
     header nav ul li a:visited{
-        display: block;
+        display: inline-block;
         border-bottom: 1px solid #777;
     }
 }
