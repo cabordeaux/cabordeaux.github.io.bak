@@ -9,22 +9,24 @@
 body {
     padding: 0;
     margin: 0;
-    
 }
+
 header {
     height: 50px;
-    background: rgb(0, 0, 0);
+    background: #000;
     color: #fff;
-    padding: 0 .5rm 0 1em;
+    margin: 0;
+    padding: 0 1em 0 1em;
 }
 
 header .logo{
     line-height: 50px;
     font-weight: bold;
+   
 }
 
 header nav {
-    float: right;
+    float: right
 }
 
 header nav ul {
@@ -59,7 +61,7 @@ header nav ul li a:hover{
     width: 960px;
   
     /* For samller screens to not exceed the max screen width */
-    max-width: 90%;
+    max-width: 100%;
   }
 
 .avatar{
@@ -77,10 +79,6 @@ label {
     display: block; 
 }
 @media only screen and (max-width: 960px)  {
-    main {
-        max-width: 90%;
-    }
-
 
     #toggleMenu {
         display: block;
@@ -90,11 +88,10 @@ label {
     header {
         position: relative;
       }
-
     header nav{
         position: absolute;
         display: none;
-        background: rgb(0, 0, 0);
+        background: #000;
         top: 50px;
         left: 0px;
         right: 0px;
